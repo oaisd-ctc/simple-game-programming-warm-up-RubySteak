@@ -79,7 +79,7 @@ public class Program
             {
                 playerScore+=6;
             }
-        
+         
             Console.WriteLine("You rolled " + EventChanceTime());
 
             if (playerScore < rivalScore)
